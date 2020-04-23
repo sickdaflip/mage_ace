@@ -1,0 +1,17 @@
+app/code/local/Amasty/*   app/code/local/Amasty/
+app/design/adminhtml/default/default/layout/amasty  app/design/adminhtml/default/default/layout/amasty
+app/design/adminhtml/default/default/template/amacart   app/design/adminhtml/default/default/template/amacart
+app/design/adminhtml/default/default/template/amasty    app/design/adminhtml/default/default/template/amasty
+app/design/adminhtml/default/default/template/amgeoip   app/design/adminhtml/default/default/template/amgeoip
+app/design/frontend/base/default/layout/amacart.xml app/design/frontend/base/default/layout/amacart.xml
+app/design/frontend/base/default/template/amacart   app/design/frontend/base/default/template/amacart
+app/etc/modules/*.xml   app/etc/modules/
+app/locale/en_US/template/email/amasty/amacart  app/locale/en_US/template/email/amasty/amacart
+app/locale/en_US/*.csv  app/locale/en_US/
+js/amasty   js/amasty
+lib/Amasty  lib/Amasty
+skin/adminhtml/default/default/amasty   skin/adminhtml/default/default/amasty
+skin/adminhtml/default/default/css/amasty   skin/adminhtml/default/default/css/amasty
+skin/adminhtml/default/default/images/ambase    skin/adminhtml/default/default/images/ambase
+skin/adminhtml/default/default/images/amgeoip   skin/adminhtml/default/default/images/amgeoip
+skin/frontend/base/default/images/amacart   skin/frontend/base/default/images/amacart
